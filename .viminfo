@@ -12,9 +12,9 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1684232576,,"wq!"
+|2,0,1684245941,,"wq!"
 :q!
-|2,0,1684229342,,"q!"
+|2,0,1684244162,,"q!"
 
 # Search String History (newest to oldest):
 
@@ -30,247 +30,276 @@
 |3,1,36,0,1,0,1684229307,"!"
 
 # File marks:
-'0  1  0  ~/.git/COMMIT_EDITMSG
-|4,48,1,0,1684232576,"~/.git/COMMIT_EDITMSG"
-'1  1  0  ~/crontab
-|4,49,1,0,1684231406,"~/crontab"
-'2  16  48  ~/instance.bash
-|4,50,16,48,1684230558,"~/instance.bash"
-'3  16  49  ~/instance.bash
-|4,51,16,49,1684229695,"~/instance.bash"
-'4  1  9  ~/test
-|4,52,1,9,1684229342,"~/test"
-'5  1  0  /tmp/crontab.PFqJON
-|4,53,1,0,1684229066,"/tmp/crontab.PFqJON"
-'6  1  0  /tmp/crontab.PFqJON
-|4,54,1,0,1684229050,"/tmp/crontab.PFqJON"
-'7  1  10  ~/test
-|4,55,1,10,1684228370,"~/test"
-'8  3  0  /etc/rsyslog.d/haproxy.conf
-|4,56,3,0,1684163699,"/etc/rsyslog.d/haproxy.conf"
-'9  19  0  /etc/rsyslog.conf
-|4,57,19,0,1684163532,"/etc/rsyslog.conf"
+'0  7  38  ~/instance.bash
+|4,48,7,38,1684245941,"~/instance.bash"
+'1  3  0  ~/cronjob
+|4,49,3,0,1684245255,"~/cronjob"
+'2  3  0  ~/cronjob
+|4,50,3,0,1684245206,"~/cronjob"
+'3  35  46  ~/instance.bash
+|4,51,35,46,1684244236,"~/instance.bash"
+'4  16  46  ~/instance.bash
+|4,52,16,46,1684244236,"~/instance.bash"
+'5  4  1  ~/instance
+|4,53,4,1,1684244162,"~/instance"
+'6  35  47  ~/instance.bash
+|4,54,35,47,1684243615,"~/instance.bash"
+'7  16  47  ~/instance.bash
+|4,55,16,47,1684243615,"~/instance.bash"
+'8  1  0  ~/file1.file2
+|4,56,1,0,1684243593,"~/file1.file2"
+'9  1  0  ~/crontab
+|4,57,1,0,1684243578,"~/crontab"
 
 # Jumplist (newest first):
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1684232576,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/crontab
-|4,39,1,0,1684231406,"~/crontab"
--'  1  0  ~/crontab
-|4,39,1,0,1684231406,"~/crontab"
--'  16  48  ~/instance.bash
-|4,39,16,48,1684230558,"~/instance.bash"
--'  16  48  ~/instance.bash
-|4,39,16,48,1684230558,"~/instance.bash"
--'  16  48  ~/instance.bash
-|4,39,16,48,1684230558,"~/instance.bash"
--'  16  48  ~/instance.bash
-|4,39,16,48,1684230558,"~/instance.bash"
--'  16  49  ~/instance.bash
-|4,39,16,49,1684229695,"~/instance.bash"
--'  16  49  ~/instance.bash
-|4,39,16,49,1684229695,"~/instance.bash"
--'  16  49  ~/instance.bash
-|4,39,16,49,1684229695,"~/instance.bash"
--'  16  49  ~/instance.bash
-|4,39,16,49,1684229695,"~/instance.bash"
+-'  7  38  ~/instance.bash
+|4,39,7,38,1684245941,"~/instance.bash"
 -'  1  0  ~/instance.bash
-|4,39,1,0,1684229654,"~/instance.bash"
--'  1  0  ~/instance.bash
-|4,39,1,0,1684229654,"~/instance.bash"
--'  1  0  ~/instance.bash
-|4,39,1,0,1684229654,"~/instance.bash"
--'  1  0  ~/instance.bash
-|4,39,1,0,1684229654,"~/instance.bash"
--'  1  0  ~/instance.bash
-|4,39,1,0,1684229654,"~/instance.bash"
--'  1  0  ~/instance.bash
-|4,39,1,0,1684229654,"~/instance.bash"
--'  1  0  ~/instance.bash
-|4,39,1,0,1684229654,"~/instance.bash"
--'  1  0  ~/instance.bash
-|4,39,1,0,1684229654,"~/instance.bash"
--'  1  9  ~/test
-|4,39,1,9,1684229342,"~/test"
--'  1  9  ~/test
-|4,39,1,9,1684229342,"~/test"
--'  1  9  ~/test
-|4,39,1,9,1684229342,"~/test"
--'  1  9  ~/test
-|4,39,1,9,1684229342,"~/test"
--'  1  9  ~/test
-|4,39,1,9,1684229342,"~/test"
--'  1  9  ~/test
-|4,39,1,9,1684229342,"~/test"
--'  1  9  ~/test
-|4,39,1,9,1684229342,"~/test"
--'  1  9  ~/test
-|4,39,1,9,1684229342,"~/test"
--'  1  9  ~/test
-|4,39,1,9,1684229342,"~/test"
--'  1  9  ~/test
-|4,39,1,9,1684229342,"~/test"
--'  1  9  ~/test
-|4,39,1,9,1684229342,"~/test"
--'  1  9  ~/test
-|4,39,1,9,1684229342,"~/test"
--'  1  9  ~/test
-|4,39,1,9,1684229342,"~/test"
--'  1  9  ~/test
-|4,39,1,9,1684229342,"~/test"
--'  1  9  ~/test
-|4,39,1,9,1684229342,"~/test"
--'  1  9  ~/test
-|4,39,1,9,1684229342,"~/test"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
--'  1  0  /tmp/crontab.PFqJON
-|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
--'  1  10  ~/test
-|4,39,1,10,1684228370,"~/test"
+|4,39,1,0,1684245318,"~/instance.bash"
+-'  3  0  ~/cronjob
+|4,39,3,0,1684245255,"~/cronjob"
+-'  3  0  ~/cronjob
+|4,39,3,0,1684245255,"~/cronjob"
+-'  3  0  ~/cronjob
+|4,39,3,0,1684245206,"~/cronjob"
+-'  3  0  ~/cronjob
+|4,39,3,0,1684245206,"~/cronjob"
+-'  1  0  ~/cronjob
+|4,39,1,0,1684245153,"~/cronjob"
+-'  1  0  ~/cronjob
+|4,39,1,0,1684245153,"~/cronjob"
+-'  1  0  ~/cronjob
+|4,39,1,0,1684245153,"~/cronjob"
+-'  1  0  ~/cronjob
+|4,39,1,0,1684245153,"~/cronjob"
+-'  35  46  ~/instance.bash
+|4,39,35,46,1684244236,"~/instance.bash"
+-'  16  46  ~/instance.bash
+|4,39,16,46,1684244236,"~/instance.bash"
+-'  16  46  ~/instance.bash
+|4,39,16,46,1684244236,"~/instance.bash"
+-'  16  46  ~/instance.bash
+|4,39,16,46,1684244236,"~/instance.bash"
+-'  16  46  ~/instance.bash
+|4,39,16,46,1684244236,"~/instance.bash"
+-'  4  1  ~/instance
+|4,39,4,1,1684244162,"~/instance"
+-'  4  1  ~/instance
+|4,39,4,1,1684244162,"~/instance"
+-'  4  1  ~/instance
+|4,39,4,1,1684244162,"~/instance"
+-'  4  1  ~/instance
+|4,39,4,1,1684244162,"~/instance"
+-'  4  1  ~/instance
+|4,39,4,1,1684244162,"~/instance"
+-'  4  1  ~/instance
+|4,39,4,1,1684244162,"~/instance"
+-'  4  1  ~/instance
+|4,39,4,1,1684244162,"~/instance"
+-'  4  1  ~/instance
+|4,39,4,1,1684244162,"~/instance"
+-'  4  1  ~/instance
+|4,39,4,1,1684244162,"~/instance"
+-'  4  1  ~/instance
+|4,39,4,1,1684244162,"~/instance"
+-'  4  1  ~/instance
+|4,39,4,1,1684244162,"~/instance"
+-'  4  1  ~/instance
+|4,39,4,1,1684244162,"~/instance"
+-'  4  1  ~/instance
+|4,39,4,1,1684244162,"~/instance"
+-'  4  1  ~/instance
+|4,39,4,1,1684244162,"~/instance"
+-'  4  1  ~/instance
+|4,39,4,1,1684244162,"~/instance"
+-'  4  1  ~/instance
+|4,39,4,1,1684244162,"~/instance"
+-'  1  0  ~/instance
+|4,39,1,0,1684244015,"~/instance"
+-'  1  0  ~/instance
+|4,39,1,0,1684244015,"~/instance"
+-'  1  0  ~/instance
+|4,39,1,0,1684244015,"~/instance"
+-'  1  0  ~/instance
+|4,39,1,0,1684244015,"~/instance"
+-'  1  0  ~/instance
+|4,39,1,0,1684244015,"~/instance"
+-'  1  0  ~/instance
+|4,39,1,0,1684244015,"~/instance"
+-'  1  0  ~/instance
+|4,39,1,0,1684244015,"~/instance"
+-'  1  0  ~/instance
+|4,39,1,0,1684244015,"~/instance"
+-'  1  0  ~/instance
+|4,39,1,0,1684244015,"~/instance"
+-'  1  0  ~/instance
+|4,39,1,0,1684244015,"~/instance"
+-'  1  0  ~/instance
+|4,39,1,0,1684244015,"~/instance"
+-'  1  0  ~/instance
+|4,39,1,0,1684244015,"~/instance"
+-'  1  0  ~/instance
+|4,39,1,0,1684244015,"~/instance"
+-'  1  0  ~/instance
+|4,39,1,0,1684244015,"~/instance"
+-'  1  0  ~/instance
+|4,39,1,0,1684244015,"~/instance"
+-'  1  0  ~/instance
+|4,39,1,0,1684244015,"~/instance"
+-'  16  47  ~/instance.bash
+|4,39,16,47,1684243615,"~/instance.bash"
+-'  16  47  ~/instance.bash
+|4,39,16,47,1684243615,"~/instance.bash"
+-'  16  47  ~/instance.bash
+|4,39,16,47,1684243615,"~/instance.bash"
+-'  16  47  ~/instance.bash
+|4,39,16,47,1684243615,"~/instance.bash"
+-'  16  47  ~/instance.bash
+|4,39,16,47,1684243615,"~/instance.bash"
+-'  16  47  ~/instance.bash
+|4,39,16,47,1684243615,"~/instance.bash"
+-'  16  47  ~/instance.bash
+|4,39,16,47,1684243615,"~/instance.bash"
+-'  16  47  ~/instance.bash
+|4,39,16,47,1684243615,"~/instance.bash"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
+-'  1  0  ~/file1.file2
+|4,39,1,0,1684243593,"~/file1.file2"
 
 # History of marks within files (newest to oldest):
+
+> ~/instance.bash
+	*	1684245937	0
+	"	7	38
+	^	7	39
+	.	7	38
+	+	35	47
+	+	20	47
+	+	1	10
+	+	4	28
+	+	6	21
+	+	8	34
+	+	7	38
+
+> ~/cronjob
+	*	1684245253	0
+	"	3	0
+	^	3	0
+	.	2	0
+	+	1	0
+	+	2	0
+
+> ~/instance
+	*	1684244158	0
+	"	4	1
+	^	4	2
+	.	4	1
+	+	48	0
+	+	5	28
+	+	2	0
+	+	4	1
+
+> ~/file1.file2
+	*	1684243589	0
+	"	1	0
+	^	1	0
+
+> ~/crontab
+	*	1684243573	0
+	"	1	0
+	^	1	0
 
 > ~/.git/COMMIT_EDITMSG
 	*	1684232568	0
 	"	1	0
 	^	1	0
-
-> ~/crontab
-	*	1684231403	0
-	"	1	0
-	^	1	0
-
-> ~/instance.bash
-	*	1684230555	0
-	"	16	48
-	^	16	49
-	.	16	49
-	+	16	49
 
 > ~/test
 	*	1684229339	0
