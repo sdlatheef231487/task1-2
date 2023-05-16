@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1684231406,,"wq!"
+|2,0,1684232576,,"wq!"
 :q!
 |2,0,1684229342,,"q!"
 
@@ -30,34 +30,46 @@
 |3,1,36,0,1,0,1684229307,"!"
 
 # File marks:
-'0  1  0  ~/crontab
-|4,48,1,0,1684231406,"~/crontab"
-'1  16  48  ~/instance.bash
-|4,49,16,48,1684230558,"~/instance.bash"
-'2  16  49  ~/instance.bash
-|4,50,16,49,1684229695,"~/instance.bash"
-'3  1  9  ~/test
-|4,51,1,9,1684229342,"~/test"
-'4  1  0  /tmp/crontab.PFqJON
-|4,52,1,0,1684229066,"/tmp/crontab.PFqJON"
+'0  1  0  ~/.git/COMMIT_EDITMSG
+|4,48,1,0,1684232576,"~/.git/COMMIT_EDITMSG"
+'1  1  0  ~/crontab
+|4,49,1,0,1684231406,"~/crontab"
+'2  16  48  ~/instance.bash
+|4,50,16,48,1684230558,"~/instance.bash"
+'3  16  49  ~/instance.bash
+|4,51,16,49,1684229695,"~/instance.bash"
+'4  1  9  ~/test
+|4,52,1,9,1684229342,"~/test"
 '5  1  0  /tmp/crontab.PFqJON
-|4,53,1,0,1684229050,"/tmp/crontab.PFqJON"
-'6  1  10  ~/test
-|4,54,1,10,1684228370,"~/test"
-'7  3  0  /etc/rsyslog.d/haproxy.conf
-|4,55,3,0,1684163699,"/etc/rsyslog.d/haproxy.conf"
-'8  19  0  /etc/rsyslog.conf
-|4,56,19,0,1684163532,"/etc/rsyslog.conf"
-'9  89  54  /etc/haproxy/haproxy.cfg
-|4,57,89,54,1684163402,"/etc/haproxy/haproxy.cfg"
+|4,53,1,0,1684229066,"/tmp/crontab.PFqJON"
+'6  1  0  /tmp/crontab.PFqJON
+|4,54,1,0,1684229050,"/tmp/crontab.PFqJON"
+'7  1  10  ~/test
+|4,55,1,10,1684228370,"~/test"
+'8  3  0  /etc/rsyslog.d/haproxy.conf
+|4,56,3,0,1684163699,"/etc/rsyslog.d/haproxy.conf"
+'9  19  0  /etc/rsyslog.conf
+|4,57,19,0,1684163532,"/etc/rsyslog.conf"
 
 # Jumplist (newest first):
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1684232576,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/crontab
+|4,39,1,0,1684231406,"~/crontab"
 -'  1  0  ~/crontab
 |4,39,1,0,1684231406,"~/crontab"
 -'  16  48  ~/instance.bash
 |4,39,16,48,1684230558,"~/instance.bash"
 -'  16  48  ~/instance.bash
 |4,39,16,48,1684230558,"~/instance.bash"
+-'  16  48  ~/instance.bash
+|4,39,16,48,1684230558,"~/instance.bash"
+-'  16  48  ~/instance.bash
+|4,39,16,48,1684230558,"~/instance.bash"
+-'  16  49  ~/instance.bash
+|4,39,16,49,1684229695,"~/instance.bash"
+-'  16  49  ~/instance.bash
+|4,39,16,49,1684229695,"~/instance.bash"
 -'  16  49  ~/instance.bash
 |4,39,16,49,1684229695,"~/instance.bash"
 -'  16  49  ~/instance.bash
@@ -70,6 +82,30 @@
 |4,39,1,0,1684229654,"~/instance.bash"
 -'  1  0  ~/instance.bash
 |4,39,1,0,1684229654,"~/instance.bash"
+-'  1  0  ~/instance.bash
+|4,39,1,0,1684229654,"~/instance.bash"
+-'  1  0  ~/instance.bash
+|4,39,1,0,1684229654,"~/instance.bash"
+-'  1  0  ~/instance.bash
+|4,39,1,0,1684229654,"~/instance.bash"
+-'  1  0  ~/instance.bash
+|4,39,1,0,1684229654,"~/instance.bash"
+-'  1  9  ~/test
+|4,39,1,9,1684229342,"~/test"
+-'  1  9  ~/test
+|4,39,1,9,1684229342,"~/test"
+-'  1  9  ~/test
+|4,39,1,9,1684229342,"~/test"
+-'  1  9  ~/test
+|4,39,1,9,1684229342,"~/test"
+-'  1  9  ~/test
+|4,39,1,9,1684229342,"~/test"
+-'  1  9  ~/test
+|4,39,1,9,1684229342,"~/test"
+-'  1  9  ~/test
+|4,39,1,9,1684229342,"~/test"
+-'  1  9  ~/test
+|4,39,1,9,1684229342,"~/test"
 -'  1  9  ~/test
 |4,39,1,9,1684229342,"~/test"
 -'  1  9  ~/test
@@ -119,6 +155,66 @@
 -'  1  0  /tmp/crontab.PFqJON
 |4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
 -'  1  0  /tmp/crontab.PFqJON
+|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
+-'  1  0  /tmp/crontab.PFqJON
+|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
+-'  1  0  /tmp/crontab.PFqJON
+|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
+-'  1  0  /tmp/crontab.PFqJON
+|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
+-'  1  0  /tmp/crontab.PFqJON
+|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
+-'  1  0  /tmp/crontab.PFqJON
+|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
+-'  1  0  /tmp/crontab.PFqJON
+|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
+-'  1  0  /tmp/crontab.PFqJON
+|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
+-'  1  0  /tmp/crontab.PFqJON
+|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
+-'  1  0  /tmp/crontab.PFqJON
+|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
+-'  1  0  /tmp/crontab.PFqJON
+|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
+-'  1  0  /tmp/crontab.PFqJON
+|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
+-'  1  0  /tmp/crontab.PFqJON
+|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
+-'  1  0  /tmp/crontab.PFqJON
+|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
+-'  1  0  /tmp/crontab.PFqJON
+|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
+-'  1  0  /tmp/crontab.PFqJON
+|4,39,1,0,1684229066,"/tmp/crontab.PFqJON"
+-'  1  0  /tmp/crontab.PFqJON
+|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
+-'  1  0  /tmp/crontab.PFqJON
+|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
+-'  1  0  /tmp/crontab.PFqJON
+|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
+-'  1  0  /tmp/crontab.PFqJON
+|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
+-'  1  0  /tmp/crontab.PFqJON
+|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
+-'  1  0  /tmp/crontab.PFqJON
+|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
+-'  1  0  /tmp/crontab.PFqJON
+|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
+-'  1  0  /tmp/crontab.PFqJON
+|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
+-'  1  0  /tmp/crontab.PFqJON
+|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
+-'  1  0  /tmp/crontab.PFqJON
+|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
+-'  1  0  /tmp/crontab.PFqJON
+|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
+-'  1  0  /tmp/crontab.PFqJON
+|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
+-'  1  0  /tmp/crontab.PFqJON
+|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
+-'  1  0  /tmp/crontab.PFqJON
+|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
+-'  1  0  /tmp/crontab.PFqJON
 |4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
 -'  1  0  /tmp/crontab.PFqJON
 |4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
@@ -150,110 +246,19 @@
 |4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
 -'  1  0  /tmp/crontab.PFqJON
 |4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
+-'  1  0  /tmp/crontab.PFqJON
+|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
+-'  1  0  /tmp/crontab.PFqJON
+|4,39,1,0,1684229050,"/tmp/crontab.PFqJON"
 -'  1  10  ~/test
 |4,39,1,10,1684228370,"~/test"
--'  1  10  ~/test
-|4,39,1,10,1684228370,"~/test"
--'  1  10  ~/test
-|4,39,1,10,1684228370,"~/test"
--'  1  10  ~/test
-|4,39,1,10,1684228370,"~/test"
--'  1  10  ~/test
-|4,39,1,10,1684228370,"~/test"
--'  1  10  ~/test
-|4,39,1,10,1684228370,"~/test"
--'  1  10  ~/test
-|4,39,1,10,1684228370,"~/test"
--'  1  10  ~/test
-|4,39,1,10,1684228370,"~/test"
--'  1  10  ~/test
-|4,39,1,10,1684228370,"~/test"
--'  1  10  ~/test
-|4,39,1,10,1684228370,"~/test"
--'  1  10  ~/test
-|4,39,1,10,1684228370,"~/test"
--'  1  10  ~/test
-|4,39,1,10,1684228370,"~/test"
--'  1  10  ~/test
-|4,39,1,10,1684228370,"~/test"
--'  1  10  ~/test
-|4,39,1,10,1684228370,"~/test"
--'  1  10  ~/test
-|4,39,1,10,1684228370,"~/test"
--'  1  10  ~/test
-|4,39,1,10,1684228370,"~/test"
--'  1  10  ~/test
-|4,39,1,10,1684228370,"~/test"
--'  1  10  ~/test
-|4,39,1,10,1684228370,"~/test"
--'  1  10  ~/test
-|4,39,1,10,1684228370,"~/test"
--'  1  10  ~/test
-|4,39,1,10,1684228370,"~/test"
--'  1  10  ~/test
-|4,39,1,10,1684228370,"~/test"
--'  1  10  ~/test
-|4,39,1,10,1684228370,"~/test"
--'  1  10  ~/test
-|4,39,1,10,1684228370,"~/test"
--'  1  10  ~/test
-|4,39,1,10,1684228370,"~/test"
--'  1  10  ~/test
-|4,39,1,10,1684228370,"~/test"
--'  1  10  ~/test
-|4,39,1,10,1684228370,"~/test"
--'  1  10  ~/test
-|4,39,1,10,1684228370,"~/test"
--'  1  10  ~/test
-|4,39,1,10,1684228370,"~/test"
--'  1  10  ~/test
-|4,39,1,10,1684228370,"~/test"
--'  1  10  ~/test
-|4,39,1,10,1684228370,"~/test"
--'  1  10  ~/test
-|4,39,1,10,1684228370,"~/test"
--'  1  10  ~/test
-|4,39,1,10,1684228370,"~/test"
--'  3  0  /etc/rsyslog.d/haproxy.conf
-|4,39,3,0,1684163699,"/etc/rsyslog.d/haproxy.conf"
--'  3  0  /etc/rsyslog.d/haproxy.conf
-|4,39,3,0,1684163699,"/etc/rsyslog.d/haproxy.conf"
--'  3  0  /etc/rsyslog.d/haproxy.conf
-|4,39,3,0,1684163699,"/etc/rsyslog.d/haproxy.conf"
--'  3  0  /etc/rsyslog.d/haproxy.conf
-|4,39,3,0,1684163699,"/etc/rsyslog.d/haproxy.conf"
--'  3  0  /etc/rsyslog.d/haproxy.conf
-|4,39,3,0,1684163699,"/etc/rsyslog.d/haproxy.conf"
--'  3  0  /etc/rsyslog.d/haproxy.conf
-|4,39,3,0,1684163699,"/etc/rsyslog.d/haproxy.conf"
--'  3  0  /etc/rsyslog.d/haproxy.conf
-|4,39,3,0,1684163699,"/etc/rsyslog.d/haproxy.conf"
--'  3  0  /etc/rsyslog.d/haproxy.conf
-|4,39,3,0,1684163699,"/etc/rsyslog.d/haproxy.conf"
--'  3  0  /etc/rsyslog.d/haproxy.conf
-|4,39,3,0,1684163699,"/etc/rsyslog.d/haproxy.conf"
--'  3  0  /etc/rsyslog.d/haproxy.conf
-|4,39,3,0,1684163699,"/etc/rsyslog.d/haproxy.conf"
--'  3  0  /etc/rsyslog.d/haproxy.conf
-|4,39,3,0,1684163699,"/etc/rsyslog.d/haproxy.conf"
--'  3  0  /etc/rsyslog.d/haproxy.conf
-|4,39,3,0,1684163699,"/etc/rsyslog.d/haproxy.conf"
--'  3  0  /etc/rsyslog.d/haproxy.conf
-|4,39,3,0,1684163699,"/etc/rsyslog.d/haproxy.conf"
--'  3  0  /etc/rsyslog.d/haproxy.conf
-|4,39,3,0,1684163699,"/etc/rsyslog.d/haproxy.conf"
--'  3  0  /etc/rsyslog.d/haproxy.conf
-|4,39,3,0,1684163699,"/etc/rsyslog.d/haproxy.conf"
--'  3  0  /etc/rsyslog.d/haproxy.conf
-|4,39,3,0,1684163699,"/etc/rsyslog.d/haproxy.conf"
--'  3  0  /etc/rsyslog.d/haproxy.conf
-|4,39,3,0,1684163699,"/etc/rsyslog.d/haproxy.conf"
--'  3  0  /etc/rsyslog.d/haproxy.conf
-|4,39,3,0,1684163699,"/etc/rsyslog.d/haproxy.conf"
--'  3  0  /etc/rsyslog.d/haproxy.conf
-|4,39,3,0,1684163699,"/etc/rsyslog.d/haproxy.conf"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/COMMIT_EDITMSG
+	*	1684232568	0
+	"	1	0
+	^	1	0
 
 > ~/crontab
 	*	1684231403	0
