@@ -34,3 +34,29 @@ ls
 vim /etc/rsyslog.d/haproxy.conf
 curl localhost
 cd
+cd
+clear
+ll
+cat instance.bash 
+./instance.bash 
+ll
+ls
+vi instance.bash 
+clear
+yum install git
+git init
+git config --list
+touch file1.file2
+git add.
+git add .
+git commit -m "task2"
+git status
+git add .
+git status
+git push
+git remote add origin git@github.com:sdlatheef231487/task1-2.git
+git remote add origin git@github.com:sdlatheef231487/task1-2.git
+git push
+git push --set-upstream origin master
+sshkeygen
+clear
