@@ -159,3 +159,31 @@ git status
 git commit -m "created"
 git push
 git push --set-upstream origin main
+cd
+ll
+git add.
+git status
+git commit -m "task 1 and 2 created"
+git push
+git remote add origin git@github.com:sdlatheef231487/task1-and-2.git
+git push
+clear
+ll
+git status
+git init
+git add .
+git status
+git commit -m "task 1 and 2"
+git push
+git remote add origin git@github.com:sdlatheef231487/task1-and-2.git
+git status
+git push
+ssh-keygen
+cat /root/.ssh/id_rsa.pub.
+cat /root/.ssh/id_rsa.pub.
+cat /root/.ssh/id_rsa.pub.
+cat /root/.ssh/id_rsa.pub.
+cat /root/.ssh/id_rsa.pub
+clear
+ssh-keygen
+cat /root/.ssh/id_rsa
